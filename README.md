@@ -25,8 +25,8 @@
 [![](https://visitcount.itsvg.in/api?id=Sam134340&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Encabezado con tu GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGh3cGlmb3NweTNvdjZ5N3l4M2J3cW50bTV2cGlwcjBsMHI4YmJ6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="500"/>
 </div>
+
+
