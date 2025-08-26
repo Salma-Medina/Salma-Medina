@@ -25,3 +25,34 @@
 [![](https://visitcount.itsvg.in/api?id=Sam134340&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hola, soy Salma
+
+💻 Estudiante de Desarrollo de Software
+🚀 Actualmente aprendiendo HTML, CSS, JavaScript y Backend
+🌱 Me gusta la tecnología, el aprendizaje continuo y trabajar en equipo
+
+---
+
+## 🔧 Tecnologías y herramientas
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** En proceso de aprendizaje (Node.js, bases de datos)  
+- **Metodologías:** SCRUM, trabajo colaborativo  
+- **Otros:** Git, GitHub  
+
+---
+
+## 📊 Estadísticas de GitHub
+![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sam134340&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam134340&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Conéctate conmigo
+- 📧 Email: *tuemail@example.com*  
+- 💼 [LinkedIn](https://linkedin.com/in/TU-USUARIO)  
+- 🌍 [Portafolio](https://tusitio.com)  
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=Sam134340&color=blue)
