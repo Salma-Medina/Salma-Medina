@@ -1,9 +1,11 @@
 
 ---
 
-# 👋 ¡Hola! Soy Salma Medina
+# 👋 ¡Hola! Soy **Salma Medina**
 
-✨ Desarrolladora de software en formación | Creativa | Curiosa | Siempre aprendiendo
+✨ *Desarrolladora de software en formación | Creativa | Curiosa | Siempre aprendiendo*
+
+---
 
 ## 🌟 Sobre mí
 
@@ -12,16 +14,17 @@
 * 🤝 Soy una persona **introvertida pero sociable**, con buena escucha y excelente para aconsejar
 * 🌱 Siempre mejorando, especialmente en **desarrollo backend**, **Git/GitHub** y **código limpio**
 * 📚 Me encanta documentar, organizar ideas y construir cosas paso a paso
-* 🎨 Tengo un lado muy creativo para interfaces, animaciones y detalles visuales
-* ☕ Mi motor: café + curiosidad
+* 🎨 Tengo un lado creativo para interfaces, animaciones y detalles visuales
+* ☕ Mi motor: *café + curiosidad*
 
-
-```
+---
 
 ## 🚀 En lo que estoy trabajando
 
-* Práctica de **entrevistas técnicas** en inglés
+* Práctica de **entrevistas técnicas en inglés**
 * Mejorar mi flujo de trabajo con **Git** y hacer commits más limpios
+
+---
 
 ## 🤝 Mi forma de trabajar
 
@@ -30,20 +33,25 @@
 * 💬 Comunicación clara y respetuosa
 * 📈 Enfocada en mejorar continuamente
 
+---
+
 ## 📫 Contáctame
 
-* 💌 *Aquí en GitHub o donde me encuentres :3*
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmamedina1306@gmail.com) 
+💌 **Correo:**
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:salmamedina1306@gmail.com)
 
-[![](https://visitcount.itsvg.in/api?id=Sam134340&icon=9&color=1)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGh3cGlmb3NweTNvdjZ5N3l4M2J3cW50bTV2cGlwcjBsMHI4YmJ6aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="500"/>
+
+[![](https://visitcount.itsvg.in/api?id=Sam134340\&icon=9\&color=1)](https://visitcount.itsvg.in)
+
 </div>
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGh3cGlmb3NweTNvdjZ5N3l4M2J3cW50bTV2cGlwcjBsMHI4YmJ6aSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/FoVzfcqCDSb7zCynOp/giphy.gif" width="500"/>
+</div>
 
-
-
+---
